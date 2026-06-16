@@ -9,6 +9,6 @@
  * JSDoc Comment
  * Used for documenting functions
  */
-function getUserName() {
+  function getUserName() {
     return "John";
 }
