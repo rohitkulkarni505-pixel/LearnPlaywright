@@ -15,3 +15,4 @@ const num3 = 300; // Can't redelacre can't reassigned
 // reassigned
 // hoisted (later)
 
+
