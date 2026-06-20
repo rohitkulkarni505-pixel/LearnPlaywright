@@ -23,4 +23,4 @@ let ans = [...x, ...y];
 console.log(ans);
 let ansNew = ans.join("-->");
 console.log(ansNew);
-console.log(ans);
+console.log(ans );
